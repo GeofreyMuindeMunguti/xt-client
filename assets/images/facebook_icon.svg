@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="16px" viewBox="0 0 9 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="facebook_icon" fill="#3C476C" fill-rule="nonzero">
+            <path d="M9,2.6850586 L7.0176919,2.7086589 C7.0176919,2.7086589 4.9889628,2.4222819 4.9889628,4.2666667 L4.9889628,5.3333333 L7.980685,5.3333333 L7.980685,8.5333333 L4.9889628,8.5333333 L4.9889628,16 L1.9972407,16 L1.9972407,8.5333333 L0,8.5333333 L0,5.3333333 L1.9972407,5.3333333 L1.9972407,4.2666667 C2.4386423,1.787234 3.4413324,0 5.9862035,0 C6.6891765,0 8.1714141,0.0425532 8.9779257,0 L9,2.6850586 Z" id="icon"></path>
+        </g>
+    </g>
+</svg>
